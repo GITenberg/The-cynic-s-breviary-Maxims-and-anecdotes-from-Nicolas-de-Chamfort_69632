@@ -1,0 +1,37 @@
+_repo: The-cynic-s-breviary-Maxims-and-anecdotes-from-Nicolas-de-Chamfort_69632
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Chamfort, Sébastien-Roch-Nicolas
+    aliases:
+    - Nicolas, Sébastien Roch
+    - Chamfort, Sebastien-Roch-Nicolas
+    - Chamfort, N. (Nicolas)
+    - Champfort, Sebastien-Roch-Nicolas
+    - Chamfort, M. de (Sébastien-Roch-Nicolas)
+    deathdate: 1794
+    gutenberg_agent_id: '45470'
+    url: http://www.gutenberg.org/2009/agents/45470
+  - agent_name: Hutchison, William G.
+    gutenberg_agent_id: '55349'
+    url: http://www.gutenberg.org/2009/agents/55349
+description: ''
+gutenberg_issued: '2022-12-24'
+identifiers:
+  gutenberg: '69632'
+language: en
+pgterms:marc904: https://archive.org/details/cynicsbreviaryma00chamiala/page/n5/mode/2up
+pgterms:marc905: 20201017041953chamfort
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Wouter Franssen, Thomas Frost, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United Kingdom: Elkin Mathews,1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The cynic''s breviary: Maxims and anecdotes from Nicolas de Chamfort'
+url: http://www.gutenberg.org/ebooks/69632
